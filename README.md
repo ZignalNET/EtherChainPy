@@ -86,3 +86,31 @@ print(b)
 {'jsonrpc': '2.0', 'id': 1, 'result': {'blockHash': '0x81f42ba1386c44b651e3a81887e4eede04195a278df5f83c57341b421581174f', 'blockNumber': '0xe708a4', 'from': '0x133050c897614fef58bc351eacd9b8efd9328e51', 'gas': '0x8617', 'gasPrice': '0x4dfa1ca9c', 'maxFeePerGas': '0x52cf9a3e5', 'maxPriorityFeePerGas': '0x59682f00', 'hash': '0x111ae3586321f205dfc52c0a8143091973c0c9c9bdd4b3128cdf930dc5633ffc', 'input': '0xe63d38ed000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000800000000000000000000000000000000000000000000000000000000000000001000000000000000000000000b5b0b88bcc3dbfd0c39d1d35d22ef52890adbf1d0000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000018de76816d80000', 'nonce': '0x0', 'to': '0xd152f549545093347a162dce210e7293f1452150', 'transactionIndex': '0x125', 'value': '0x18de76816d80000', 'type': '0x2', 'accessList': [], 'chainId': '0x1', 'v': '0x0', 'r': '0x2bd6d496695ba1f79700c95e4c6b326b9c20b3aca97e90d560bf476dd59ad787', 's': '0x5e2eacd9481b6bc44c89cef7039d54df494c4a9ac1c3f35fdbca9bdc4e83afd8'}}
 
 ```
+
+# Costs
+```
+FREE as in FREE speech. 
+But if you have 100% remote contract jobs available for me, drop me an email emmanuel@zignal.net
+```
+
+# License
+
+```
+
+Copyright 2022 Emmanuel Adigun. emmanuel@zignal.get
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+```
+
+
