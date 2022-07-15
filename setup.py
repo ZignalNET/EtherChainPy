@@ -8,7 +8,7 @@ setuptools.setup(
     version="1.0.80",
     author="Emmanuel Adigun",
     author_email="emmanuel@zignal.net",
-    description="A python interface to the ethereum blockchain explorer at https://www.etherscan.io",
+    description="A python interface to the ethereum blockchain explorer at https://www.etherscan.io/apis",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/ZignalNET/EtherChainPy",
